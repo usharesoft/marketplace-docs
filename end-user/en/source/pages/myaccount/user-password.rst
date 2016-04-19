@@ -1,13 +1,17 @@
 .. Copyright (c) 2007-2016 UShareSoft, All rights reserved
 
-.. _account-change-password:
+.. _mp-change-password:
 
 Changing Your Password
 ----------------------
 
-To modify your password:
+You can modify your Marketplace account password as follows:
 
-	1. Click on the ``My Account`` tab and go to ``Change Password``.
-	2. Enter your current password and your new password.
-	3. Confirm your new password.
-	4. Click ``save``.
+	1. Login to your account.
+	2. Click on the round profile icon on the top right.
+	3. Click on the key icon on the top right.
+	4. Enter your old password.
+	5. Enter your new password and confirm it.
+	6. Click ok.
+
+	.. image:: /images/my-account.jpg

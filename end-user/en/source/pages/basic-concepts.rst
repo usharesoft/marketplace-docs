@@ -15,13 +15,13 @@ There are three types of user for the Marketplace:
 	* ``Vendor``: A user who can add and manage product items in the Marketplace.  There are two types of vendors: ``Corporate`` or ``Developer``. A corporate vendor can have several members (users).
 	* ``Channel Manager``: An administrator of the Marketplace who approves product items added by vendors.
 
-.. image:: /images/xx.jpg
+.. image:: /images/marketplace-workflow.png
 
 The figure illustrates the typical workflow. A Vendor posts a product to the Marketplace. Once the products are approved by the Channel Manager products are visible and accessible to other users of the Marketplace.
 
 Each Product has a type (for example Template, image, plugin, binary, script) with optional marketing, support and pricing information.
 
-.. image:: /images/xx.jpg
+.. image:: /images/product-schema.png
 
 The Vendor defines the Marketing information, Support plan, and Pricing plan associated to the product.
 
@@ -29,7 +29,7 @@ Once you are logged in to the Marketplace you will see a general view of the mar
 
 .. note:: The menu options on the left hand will depend on whether your Marketplace is linked to an UForge AppCenter or not. The following image shows a Marketplace associated to an AppCenter.
 
-.. image:: /images/xx.jpg
+.. image:: /images/MP-mainpage.jpg
 
 * At the top of the page you can click to go to your private areas: My Purchases and My Favorites.
 * In the main area you can filter and search for products available on the Marketplace.
@@ -43,5 +43,4 @@ Once you are logged in to the Marketplace you will see a general view of the mar
 	* VM Builder. This is only available for users that also have a UForge AppCenter. This is where your appliances are created and listed. You also go to this page to add custom software, update packages in appliances, and create images.
 	* Collaboration. This is only available for users that also have a UForge AppCenter. This is a private area where you can share appliances with other users who are part of your workspace. These users must be invited and join your workspace. 
 	* Migration. This is only available for users that also have a UForge AppCenter. This is where you can launch a scan of a live system, view the results, or compare scans.
-	
-* At the bottom left you will find standard links to twitter, terms of use and privacy policy.
+	* At the bottom left you will find standard links to twitter, terms of use and privacy policy.
