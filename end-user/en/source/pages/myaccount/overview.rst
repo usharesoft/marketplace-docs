@@ -13,3 +13,4 @@ The following sub-sections go into detail on how to manage your account informat
    user-profile
    user-apikeys
    user-password
+   user-cloud-accounts

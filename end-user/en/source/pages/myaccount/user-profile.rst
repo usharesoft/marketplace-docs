@@ -5,15 +5,24 @@
 User Profile
 ------------
 
-You can edit your user profile by clicking on ``My Account`` tab and selecting ``Profile``. The only mandatory information is your email address.
+Once you are logged into your Marketplace account you can modify the following information:
 
-.. image:: /images/xx.jpg
+	* name
+	* address
+	* company information
 
-You can add or modify your name, company information and address and click save.
+To modify your account information from the UI:
+
+	1. Click on the profile icon on the left.
+	2. Modify the data as needed.
+	3. Click save.
+
+.. image:: /images/account-details.jpg
+
+
 To add a photo to your profile or modify the existing one: 
 
-	1. Go to the ``My Account`` page.
-	2. Click on the ``Profile`` tab.
+	1. Go to the ``Account Summary`` page.
 	3. Click on the round photo icon on the left hand side.
 	4. Navigate to the desired image (preferably a .jpeg or .png). 
 	5. Click ``Open``.

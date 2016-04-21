@@ -14,4 +14,4 @@ You can modify your Marketplace account password as follows:
 	5. Enter your new password and confirm it.
 	6. Click ok.
 
-	.. image:: /images/my-account.jpg
+	.. image:: /images/change-password.jpg
