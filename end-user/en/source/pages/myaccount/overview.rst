@@ -1,7 +1,9 @@
 .. Copyright (c) 2007-2016 UShareSoft, All rights reserved
 
-Managing Your Accounts
-======================
+.. _managing-accounts:
+
+Managing Your Account
+=====================
 
 The ``My Account`` tab allows you to modify your personal details, including your API Keys and password.  
 
@@ -14,3 +16,4 @@ The following sub-sections go into detail on how to manage your account informat
    user-apikeys
    user-password
    user-cloud-accounts
+   add-uforge-account
