@@ -2,8 +2,8 @@
 
 .. _overview-consumer:
 
-Marketplace Consumer View
-=========================
+Marketplace Consumer Actions
+============================
 
 If you have a consumer account for the Marketplace, you will be able to view, purchase and rate products on the Marketplace.  
 
@@ -13,8 +13,8 @@ The following sub-sections go into detail on the actions possible on the Marketp
    :titlesonly:
 
    search-product
-   product-info
+   product-details
    purchase-product
-   rate-product
+   product-review
    print-invoice
 
