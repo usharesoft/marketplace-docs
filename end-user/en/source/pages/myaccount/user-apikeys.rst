@@ -19,7 +19,7 @@ To create a key pair:
 	1. Click on the key icon on the left-hand side to go to the ``API Keys`` page.
 	2. Click on the ``create+`` icon on the top right-hand side. A new key pair is created.
 
-	.. image:: /images/mp-add-api-key.png
+	.. image:: /images/mp-add-api-key.jpg
 
 Deleting an API Key Pair
 ~~~~~~~~~~~~~~~~~~~~~~~~

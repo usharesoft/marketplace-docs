@@ -12,9 +12,11 @@ The following sub-sections go into detail on the actions possible on the Marketp
 .. toctree::
    :titlesonly:
 
-   search-product
+   user-product-search
    product-details
-   purchase-product
+   product-purchase
    product-review
-   print-invoice
+   export-template
+   fiql-search
+
 

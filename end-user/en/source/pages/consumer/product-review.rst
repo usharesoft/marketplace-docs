@@ -14,3 +14,13 @@ You can review and rate a product. This rating and review will be visible to oth
 	5. Click ``post``.
 
 .. image:: /images/product-review.jpg
+
+Replying to a Review
+~~~~~~~~~~~~~~~~~~~~
+
+You can reply to a review comment. To do so:
+
+	1. Go to your ``My Purchases`` page.
+	2. Click on the product to view the details.
+	3. Click on ``Reviews``. You will see all the reviews of the product.
+	4. You can enter a text comment and click on ``reply``.

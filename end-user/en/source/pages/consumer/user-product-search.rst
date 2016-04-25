@@ -18,7 +18,7 @@ You can click on a type to filter your search.
 
 Enter a text string in the ``search`` box to run search. You can then filter the results by category, type, badge or featured.
 
-.. image:: /images/search-products.png
+.. image:: /images/search-products.jpg
 
 .. note:: If you want to deselect a filter you need to click on it a second time.
 

@@ -40,7 +40,10 @@ Product Status
 Once you purchase a product there are different statuses that may appear on the ``My Products`` page, next to the product item.
 
 	* Validated: This means that you have successfully completed the payment and that the product is available.
-	* Payment required: This means that your payment was not complete. You must click on the pay icon to complete the payment
+	* Payment required: This means that your payment was not complete. You must click on the cart icon to complete the payment
+
+	.. image:: /images/mp-payment-required.jpg
+
 	* Processing: This means that your payment has been received and is awaiting approval form the vendor.
 
 Printing an Invoice
@@ -48,9 +51,9 @@ Printing an Invoice
 
 Once you have purchased a product, you may choose to print or download an invoice for the purchased product. To do so:
 
-1. Go to your My Purchases page.
+1. Go to your ``My Purchases`` page.
 2. Click on the product to view the details.
-3. Click on Get invoice in the top right (as per the following figure).
+3. Click on ``Get invoice`` in the top right (as per the following figure).
 
 .. image:: /images/mp-invoice-download.jpg
 
