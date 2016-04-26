@@ -14,6 +14,7 @@ Contents:
    pages/myaccount/overview
    pages/consumer/overview
    pages/vendor/overview
+   pages/channelmanager/overview
 
 
 .. _trademarks:

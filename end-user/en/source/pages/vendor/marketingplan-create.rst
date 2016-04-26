@@ -57,7 +57,7 @@ If you want to create a marketing plan that is very similar to an existing marke
 .. _updating-marketingplan:
 
 Modifying a Marketing Plan
-~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 .. note:: Any changes made to the marketing plan will be automatically applied to all the products using this marketing plan.
 
