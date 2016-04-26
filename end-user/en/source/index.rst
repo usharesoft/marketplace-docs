@@ -13,6 +13,7 @@ Contents:
    pages/basic-concepts
    pages/myaccount/overview
    pages/consumer/overview
+   pages/vendor/overview
 
 
 .. _trademarks:
