@@ -23,8 +23,8 @@ To modify your account information from the UI:
 To add a photo to your profile or modify the existing one: 
 
 	1. Go to the ``Account Summary`` page.
-	3. Click on the round photo icon on the left hand side.
-	4. Navigate to the desired image (preferably a .jpeg or .png). 
-	5. Click ``Open``.
-	6. Click ``Save``.
+	2. Click on the round photo icon on the left hand side.
+	3. Navigate to the desired image (preferably a .jpeg or .png). 
+	4. Click ``Open``.
+	5. Click ``Save``.
 
