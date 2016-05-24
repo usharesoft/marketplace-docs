@@ -13,7 +13,7 @@ Contents:
    :maxdepth: 2
 
    pages/install/architecture
-   pages/install/install
+   pages/install/overview
    pages/manage/overview
    pages/rbac/overview
 

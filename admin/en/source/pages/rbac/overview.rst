@@ -14,3 +14,5 @@ The following sub-sections cover these subjects in detail.
 
    rbac
    create-roles
+   subscription-profiles
+   manage-users
