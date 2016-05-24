@@ -12,12 +12,10 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   pages/manage-badges
-   pages/manage-compatibility
-   pages/manage-categories
-   pages/manage-product-type
-   pages/define-channel-manager
-   pages/manage-reviews
+   pages/install/architecture
+   pages/install/install
+   pages/manage/overview
+   pages/rbac/overview
 
 
 .. _trademarks:
