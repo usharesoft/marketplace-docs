@@ -21,5 +21,4 @@ This tutorial assumes that you have already contacted UShareSoft and received th
 
    requirements
    install-steps
-   configuration
-   updating
+   install-config

@@ -13,9 +13,12 @@ Contents:
    :maxdepth: 2
 
    pages/install/architecture
-   pages/install/overview
+   pages/install/install
+   pages/install/updating
    pages/manage/overview
    pages/rbac/overview
+   pages/install/rebranding
+
 
 
 .. _trademarks:
