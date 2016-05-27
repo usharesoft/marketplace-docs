@@ -7,7 +7,7 @@ Submitting a Product for Approval
 
 Once a product has been created, you must submit it for approval by a Channel Manager before it can be visible on the Marketplace.
 
-You cannot submit a product for Approval until it has the necessary elements, including artifact, Marketing Plan, Support Plan and Pricing Plan.
+You cannot submit a product for Approval until it has the necessary elements, including artifact, Marketing Plan, and Pricing Plan.
 
 If a product is rejected, you can modify and resubmit the product for approval. Throughout the approval process, you and the Channel Manager can post notes on the product approval.
 
