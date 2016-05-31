@@ -7,7 +7,7 @@ Customizing the Header
 
 UForge Marketplace allows you to customize the header by modifying the logo at the top right. Note that the logo and header can be different depending on if the user is logged in or not.
 
-Figure 3.1: Sample Header
+.. image:: /images/header.jpg
 
 You can modify the logo that appears at the top of the page BEFORE a user is signed in. The following attributes can be modified:
 

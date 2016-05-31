@@ -18,7 +18,7 @@ Contents:
    pages/manage/overview
    pages/rbac/overview
    pages/rebranding/rebranding
-
+   pages/plugins/plugins
 
 
 .. _trademarks:

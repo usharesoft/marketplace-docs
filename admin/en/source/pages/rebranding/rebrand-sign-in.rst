@@ -7,8 +7,6 @@ Modifying the Sign-In and Sign-Up Page
 
 You can modify a few elements on the sign-in and sign-up page.  
 
-Figure 3.4: Sample Sign-in Page
-
 You can modify the logo and that appears on the sign-in and sign-up page in client section of the config.xml file.  The following attributes can be modified:
 
 	* signInLogoUrl: string to the relative path of the logo image.

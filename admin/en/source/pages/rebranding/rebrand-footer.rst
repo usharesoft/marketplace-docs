@@ -13,8 +13,6 @@ The following sections in the config.xml file allow you to customize the footer:
 
 You can also customize the footer menu on the bottom left hand side (see figure 3.3).  This can be to replace, remove or add new text, icons and references.
 
-Figure 3.3: Sample Footer with Default Settings
-
 By default, UForge Marketplace has the following footer items:
 
 	* Link to Twitter – https://twitter.com/usharesoft

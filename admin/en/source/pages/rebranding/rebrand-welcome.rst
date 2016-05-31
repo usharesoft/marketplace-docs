@@ -7,7 +7,7 @@ Customizing the Welcome Page
 
 UForge Marketplace allows you to customize the welcome page text and color.
 
-Figure 3.2: Sample Welcome Page
+.. image:: /images/welcome-page.jpg
 
 The following elements of the config.xml file allow you to customize the welcome page:
 
