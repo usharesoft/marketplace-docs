@@ -65,9 +65,13 @@ To setup a shared storage:
 			su - tomcat 
 			cd /var/opt/UShareSoft/marketplace 
 			touch test 
-			This should not return: 
+
+		This should not return::
+
 			touch: cannot touch `test': Permission denied 
-			Then execute:
+		
+		Then execute::
+		
 			rm test
 
 		e. Restore the initial Marketplace data::
