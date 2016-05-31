@@ -25,8 +25,8 @@ The following sub-sections cover the various rebranding options in detail.
 .. toctree::
    :titlesonly:
 
-   custom-logos
-   regrand-sign-in
+   custom-logo
+   rebrand-sign-in
    rebrand-welcome
    rebrand-header
    modify-logo
