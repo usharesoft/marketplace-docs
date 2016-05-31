@@ -17,7 +17,7 @@ Contents:
    pages/install/updating
    pages/manage/overview
    pages/rbac/overview
-   pages/install/rebranding
+   pages/rebranding/rebranding
 
 
 

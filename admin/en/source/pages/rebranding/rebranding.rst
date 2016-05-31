@@ -3,7 +3,7 @@
 .. _rebranding-mp:
 
 Rebranding UForge Marketplace
------------------------------
+=============================
 
 The presentation layer is built using GWT (Google Web Toolkit) that produces HTML, Javascript and CSS.  A configuration file named config.xml is provided to facilitate basic customization of the user interface.  For more advanced rebranding, a custom CSS file is used to override the default stylesheets provided in UForge Marketplace.
 The configuration file is located in::
@@ -18,16 +18,18 @@ Whenever changes have been made to either the custo.css or the config.xml files,
 
 	# /opt/UShareSoft/uforge-client/bin/marketplace_ui_update.sh
 
-
 This command stops the U web service (Tomcat), integrates the changes and restarts the web service.
 
-Adding Custom Logos and Images
-==============================
+The following sub-sections cover the various rebranding options in detail.
 
-If you plan to include your own logos and images when customizing the user interface, you should create a sub-directory under: /var/opt/UShareSoft/uforge-client/gwt/uforge/templates/images
+.. toctree::
+   :titlesonly:
 
-For example, place all your logos and images under the sub-directory “mycompany”::
-
-	# mkdir -p /var/opt/UShareSoft/uforge-client/gwt/uforge/templates/images/mycompany
-
-You can then update the relevant sections of the config.xml or custo.css to use these images.
+   custom-logos
+   regrand-sign-in
+   rebrand-welcome
+   rebrand-header
+   modify-logo
+   rebrand-footer
+   terms-of-use
+   advanced-css
