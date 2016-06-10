@@ -7,18 +7,15 @@ Hardware Requirements
 
 UForge Marketplace can be installed either on physical machines or in a virtual or cloud environment.  The minimal installation requirements are:
 
-	* One physical or virtual machine where UForge will be installed
+	* One physical or virtual machine where UForge Marketpalce will be installed
 	* Optionally a NAS or SAN for storage (otherwise the local disk of the VM)
 
 The UForge Marketplace platform requires the following hardware (for one-node installation):
-CPU
-4 cores (10 cores recommended)
-RAM
-4 GB or more  (10 GB recommended)
-Local Hard Drive
-30GB
-Storage 
-400GB, note this depends on the number and type of product artifacts you wish to store and show via the marketplace
+
+	* CPU: 4 cores (10 cores recommended)
+	* RAM: 4 GB or more  (10 GB recommended)
+	* Local Hard Drive: 30GB
+	* Storage: 400GB, note this depends on the number and type of product artifacts you wish to store and show via the marketplace
 
 Depending upon the scalability, security and reliability requirements the various components and networking architecture comprising the platform may be installed differently.  For example:
 
@@ -34,7 +31,7 @@ Before you start deploying UForge Marketplace, ensure that you have all the foll
 
 	* UForge Marketplace Media
 	* Your activation credentials (ID and activation key) provided by UShareSoft
-	* Architecture of the deployment (number of nodes and networking topology. See “Architecture and Networking Topologies” for more information)
+	* Architecture of the deployment (number of nodes and networking topology. See :ref:`mp-architecture` for more information)
 	* The necessary system requirements
 	* Your SSL certificates, key and chaining certificates, and all files corresponding to the following entries in /etc/httpd/conf.d/ssl.conf:
 
